@@ -1,0 +1,13 @@
+name = "pathfinder"
+author = "Rafael P C França"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b79ddcda8c3772ae314ed9ea1c34b2dd354d1f5218d52705e9e9ac5b4dda5cf4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.262"
