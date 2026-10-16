@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "f1c72d109cd983f6475b1eeff6c7b818a0d7016e4e469ec0f9c4f1b4ca66b0ed"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
 metafile = true
@@ -137,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "5b455b1ef10642289e24670df5c3ee5deabf320e07c67d24e84b30c65c86df52"
+hash = "840bb114b8c686327e6d53856e189906e396f4b74d3fe02d2103c9190dd76a37"
 metafile = true
 
 [[files]]
