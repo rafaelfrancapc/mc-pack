@@ -151,11 +151,6 @@ hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
-file = "mods/projecte-integration.pw.toml"
-hash = "3dbf5caedd60ebdba6b0877b3bfa1aaede6507e31ea16f1cf9669e514e718b0b"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
