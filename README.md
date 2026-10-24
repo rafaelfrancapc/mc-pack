@@ -10,7 +10,7 @@ Para garantir que não há conflito com outros mods que já tenha, vamos criar u
 2. No canto inferior direito, clique no botão **TL Mods** (ícone de uma pasta com engrenagem).
 3. No menu superior da nova janela, clique em **Criar** (Create).
 4. Preencha os campos da seguinte forma:
-   * **Nome:** `pathfinder` *(Pode escolher outro nome se preferir, mas usaremos este no tutorial).*
+   * **Nome:** `BAUHAUS` *(Pode escolher outro nome se preferir, mas usaremos este no tutorial).*
    * **Versão do Jogo:** `1.21.1`
    * **Sistema de Mods:** Selecione `NeoForge`
    * **Versão do NeoForge:** `21.1.262`
