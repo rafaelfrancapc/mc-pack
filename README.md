@@ -50,5 +50,5 @@ Tudo pronto! Agora é só entrar no jogo.
 4. Clique em **Adicionar Servidor** (Add Server).
 5. Preencha as informações:
    * **Nome do Servidor:** Pathfinder (ou o que preferir)
-   * **Endereço do Servidor:** `mc.zephyros.net.br`
+   * **Endereço do Servidor:** `bauhaus.zephyros.net.br`
 6. Clique em **Concluído**, selecione o servidor na lista e clique em **Entrar no Servidor**.
