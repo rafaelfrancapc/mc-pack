@@ -1,4 +1,4 @@
-# Guia de Configuração - Servidor Pathfinder (NeoForge 1.21.1)
+# Guia de Configuração - Servidor Bauhaus (NeoForge 1.21.1)
 
 Bem-vindo! Este guia vai mostrar-lhe passo a passo como configurar o seu TLauncher, instalar o modpack e conectar-se ao nosso servidor.
 
@@ -18,7 +18,7 @@ Para garantir que não há conflito com outros mods que já tenha, vamos criar u
 <img width="1027" height="691" alt="image" src="https://github.com/user-attachments/assets/91a385a6-cdac-40be-b7a0-61dc68e5a65a" />
 
 5. Clique no botão **Criar** na parte inferior. 
-6. Feche a janela do TLMods para voltar à tela principal do TLauncher. Certifique-se de que a versão selecionada na lista suspensa seja a `pathfinder` (ou o nome que você escolheu).
+6. Feche a janela do TLMods para voltar à tela principal do TLauncher. Certifique-se de que a versão selecionada na lista suspensa seja a `BAUHAUS` (ou o nome que você escolheu).
 
 ## Passo 2: Baixar os Mods
 
