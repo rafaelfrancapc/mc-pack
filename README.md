@@ -1,4 +1,6 @@
-# Guia de Configuração - Servidor Bauhaus (NeoForge 1.21.1)
+#EM MANUTENÇÃO
+
+#Guia de Configuração - Servidor Bauhaus (NeoForge 1.21.1)
 
 Bem-vindo! Este guia vai mostrar-lhe passo a passo como configurar o seu TLauncher, instalar o modpack e conectar-se ao nosso servidor.
 
