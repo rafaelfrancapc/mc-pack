@@ -60,6 +60,8 @@ https://login.tailscale.com/uinv/i3b6521bCT116ZQa33uQm11
 6. Clique em **Concluído**, selecione o servidor na lista e clique em **Entrar no Servidor**.
 
 
+## Acesso alternativo ao Tlauncher via SKlauncher
+
 Para fazer o acesso através do SKLauncher siga o processo abaixo:
 
 Clique em adicionar nova instância:
